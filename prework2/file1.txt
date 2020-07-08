@@ -1,0 +1,16 @@
+Fast Food Restaurants
+
+
+Attributes:
+
+number_of_employees (integer)
+food_available (array)
+restaurant_name (string)
+store_hours (hash)
+
+Methods:
+
+hire_employee (number_of_employees + 1)
+remove_food_item (removes one object from the array, food_available)
+restaurant_buyout (changes the value of the string, restaurant_name)
+closed_for_holiday (changes the value of the hash, store_hours)
